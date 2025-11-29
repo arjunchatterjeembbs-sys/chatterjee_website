@@ -1,0 +1,38 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/Chatterjee_MD
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@ArjunChatterjee
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/arjunchatterjeembbs/
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.arjunchatterjeembbs@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I’m Arjun Chatterjee, MD, a Gastroenterology & Hepatology Fellow at the Cleveland Clinic Foundation, where I am also completing a Graduate Certificate in Clinical Research at Case Western Reserve University. My work sits at the intersection of clinical pancreatology, advanced endoscopy, and outcomes-driven research — shaped by early training at the Mayo Clinic, where I served as a Research Fellow in Gastroenterology.
+
+My academic mission is simple: to contribute meaningful, practice-changing evidence in pancreatic disease, with a focus on early detection, high-risk syndromes, procedural innovation, and health-services research. I am deeply engaged in pancreas-focused scholarship: from leading projects in fatty pancreas disease, IPMN surveillance, recurrent pancreatitis, and biliary/pancreatic endoscopy, to presenting at national societies including ACG, DDW, APA, and PancreasFest.
+
+I have been honored to receive multiple recognitions, including selection as a CAPER Pancreas Scholar (2024–26), the CAPER/NPF Visiting Fellowship at UPMC, ACG Presidential Poster Awards, Cleveland Clinic IM Research Award, and multiple National Pancreas Foundation Travel Scholarships. I currently serve as an Associate Editor for the ACG Case Reports Journal and as an #EBGI Social Media Ambassador, reflecting my parallel interest in medical communication and education.
+
+Beyond research, I enjoy creating and sharing educational content through Medical Twitter and YouTube, running my long-standing platform “Curious Cranium”, mentoring international medical trainees, and building digital tools — including websites, video content, and graphics that make complex ideas more accessible.
+
+My long-term goal is to become a clinician-scientist and educator in medical pancreatology, advancing early diagnosis, risk prediction, and minimally invasive therapeutics for pancreatic disease — while contributing to the next generation of trainees through education, scholarship, and mentorship.
+
+Please feel free to [contact me](mailto:mail.arjunchatterjeembbs@gmail.com) if you have any questions or would like to discuss potential projects.
+
+
