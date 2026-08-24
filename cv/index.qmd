@@ -8,7 +8,7 @@ engine: knitr
 resources:
   - "cv.pdf"
 cv:
-  pdf: "CV - updated.pdf"
+  pdf: "CV_Github.pdf"
 ---
 
 ```{css echo=FALSE}
